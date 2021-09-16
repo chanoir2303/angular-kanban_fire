@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dc-kanban-62caf": {
+      "hosting": {
+        "kanban-fire": [
+          "dc-kanban-62caf"
+        ]
+      }
+    }
+  }
+}
